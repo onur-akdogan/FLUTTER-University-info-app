@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'models/uniInfoList.dart';
+import 'models/detay.dart';
+
 
 void main() => runApp(MyApp());
 

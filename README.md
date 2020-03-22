@@ -9,6 +9,5 @@ Dart dilinin Flutter Framework unu kullanarak yazılmış bir mobil uygulama
 json dosyasından veri çeken bir mobil uygulama
 
 ![SS](https://raw.githubusercontent.com/onur-akdogan/FLUTTER-University-info-app/master/photo_2020-03-23_00-22-56.jpg)
-![SS](https://raw.githubusercontent.com/onur-akdogan/FLUTTER-University-info-app/master/photo_2020-03-23_00-22-59.jpg)
 ![SS](https://raw.githubusercontent.com/onur-akdogan/FLUTTER-University-info-app/master/photo_2020-03-23_00-23-02.jpg)
 ![SS](https://raw.githubusercontent.com/onur-akdogan/FLUTTER-University-info-app/master/photo_2020-03-23_00-23-07.jpg)

@@ -84,7 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 style: TextStyle(
                     color: Colors.teal,
                     fontWeight: FontWeight.w600,
-                    fontStyle: FontStyle.italic),
+                    fontStyle: FontStyle.italic), 
               ),
             ),
             ListTile(
